@@ -15,7 +15,7 @@ public class UTPasswordCallback implements CallbackHandler {
 	Map<String, String> passwords = new HashMap<>();
 
 	public UTPasswordCallback() {
-		passwords.put("bharath", "bharath");
+		passwords.put("rzuniga", "rzuniga");
 		passwords.put("cxf", "cxf");
 	}
 
